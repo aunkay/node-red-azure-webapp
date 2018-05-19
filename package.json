@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A webapp wrapper for running node-red in an Azure Web App",
   "main": "server.js",
+  "engines" : { "node" : "^8.9.0", "npm": "^5.5.1" },
   "dependencies": {
     "node-red": "^0.18.4"
   },
